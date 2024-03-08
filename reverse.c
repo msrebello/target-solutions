@@ -6,7 +6,7 @@ void swap(char *ch1, char *ch2);
 int main(int argc, char const *argv[])
 {
 
-    char arr[] = {"YOU WANT SOME COFFEE?"};
+    char arr[] = {"WOULD YOU LIKE SOME COFFEE?"};
 
      printf("%s\n", arr);
 
